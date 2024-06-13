@@ -5,6 +5,10 @@
 
 [<img src="./Screenshot_1.png" alt="Imagem QR code Frontend Mentor">](#)
 
+## Tecnologias utilizadas
+- HTML
+- CSS
+
 ## O que aprendi
 Neste Projeto utilzei flex-box para centralizar as divs e consegui entender melhor e me familiarizar com formas de centralizar e organizar elementos dentro de uma mesma div utilizando flex-direction
 
